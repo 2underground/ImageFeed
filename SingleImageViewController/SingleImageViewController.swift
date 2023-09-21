@@ -1,9 +1,6 @@
 //
 //  SingleImageViewController.swift
 //  ImageFeed
-//
-//  Created by Ina on 13/05/2023.
-//
 
 import Foundation
 import UIKit
@@ -17,7 +14,7 @@ final class SingleImageViewController: UIViewController {
         }
     }
     
-    @IBOutlet weak var scrollView: UIScrollView!
+    @IBOutlet private weak var scrollView: UIScrollView!
     @IBOutlet private var imageView: UIImageView!
     @IBAction private func backwardButton() {
         dismiss(animated: true, completion: nil)

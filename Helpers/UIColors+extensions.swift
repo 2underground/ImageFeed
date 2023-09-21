@@ -1,9 +1,7 @@
 //
 //  UIColors_extensions.swift
 //  ImageFeed
-//
-//  Created by Ina on 20/05/2023.
-//
+//0=0
 
 import Foundation
 import UIKit

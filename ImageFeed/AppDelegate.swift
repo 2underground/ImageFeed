@@ -1,7 +1,7 @@
 //
 //  AppDelegate.swift
 //  ImageFeed
-
+//
 
 import UIKit
 

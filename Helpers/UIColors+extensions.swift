@@ -1,7 +1,7 @@
 //
 //  UIColors_extensions.swift
 //  ImageFeed
-//0=0
+//
 
 import Foundation
 import UIKit
